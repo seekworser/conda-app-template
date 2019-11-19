@@ -1,0 +1,3 @@
+#! /bin/bash
+
+conda create -y -p *.app/Contents/Resources/conda-env python=3.7
